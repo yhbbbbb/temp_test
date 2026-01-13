@@ -2,14 +2,6 @@
 
 <a id="readme-top"></a>
 
-<div align="center">
-
-<h3 align="center">软件工程期末复习资料</h3>
-
-</p>
-
-</div>
-
 <details>
 
 <summary>目录</summary>
